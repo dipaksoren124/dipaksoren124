@@ -35,7 +35,7 @@ I practice only on systems I own or have explicit permission to test.
 
 📫 Connect With Me
 
-- GitHub: https://github.com/dipak-soren
+- GitHub: https://github.com/dipaksoren124
 
 ---
 
